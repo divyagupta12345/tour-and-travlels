@@ -6,8 +6,8 @@
 }
 img{
     width:100%;
-    width:110rem;
-    height: 100%;
+    width:100rem;
+    height: 50rem;
    object-fit: cover;
 }
 .hero-text{

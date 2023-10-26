@@ -1,13 +1,13 @@
 .about{
-    width: 100%;
+    width: 50%;
     height: 70vh;
 
    position: relative;
 }
 img{
-   width:100%;
-   width:150rem;
-   height: 50rem;
+   width:60%;
+   width:100rem;
+   height: 30rem;
   object-fit: cover;
 }
 .about-text{

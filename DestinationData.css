@@ -1,0 +1,23 @@
+.Maldives{
+     display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    
+}
+.Maldives h1{
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+}
+.Maldives p{
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: row;
+}
+.Maldives image{
+    width:100%;
+    width: 720px;
+    height: 30vh;
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
